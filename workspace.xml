@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a4c0877-2067-4ad3-80d7-e183eab4635f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Final project/js/terrain/Light.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final project/js/terrain/Rain.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final project/js/terrain/Skyes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final project/js/terrain/Sun.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final project/resources/images/2k_sun.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final project/resources/images/cloid3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final project/resources/images/cloud1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final project/resources/images/cloud1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final project/resources/images/cloud2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final project/resources/images/cloud3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final project/resources/images/cloud4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final project/resources/images/sun.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final project/resources/textures/cloud2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final project/resources/textures/raindrop1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final project/resources/textures/raindrop2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final project/resources/textures/raindrop3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Final project/resources/textures/raindrop5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Julie/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Julie/js/terrain/Clouds.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Julie/js/terrain/Light.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Julie/js/terrain/Rain.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Julie/js/terrain/Skybox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Julie/js/terrain/Sun.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Julie/js/terrain/Water.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Julie/js/terrain/boat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Julie/resources/images/normalMap.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Julie/resources/images/sun.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Julie/resources/images/watertexture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Julie/resources/models/kenney_nature_kit/boatImage/ship_light.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Julie/resources/models/kenney_nature_kit/boatImage/ship_light.gltf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Julie/resources/skydome/clouds1_down.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Julie/resources/skydome/clouds1_east.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Julie/resources/skydome/clouds1_north.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Julie/resources/skydome/clouds1_south.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Julie/resources/skydome/clouds1_up.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Julie/resources/skydome/clouds1_west.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Julie/resources/textures/cloud2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Julie/resources/textures/raindrop5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Oblig 5/threejs-solarsystem-filledInNy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/Common/MV.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/Common/MVnew.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/Common/flatten.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/Common/initShaders.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/Common/initShaders2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/Common/initShaders3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/Common/utility.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/terrain/Lava.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/terrain/Moon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/terrain/MoonShader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/terrain/Tree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/terrain/boat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/terrain/terrain.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/bump-map.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/heightmap5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/images/normalMap.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/models/kenney_nature_kit/ship_light.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/models/kenney_nature_kit/ship_light.gltf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/models/kenney_nature_kit/treeHigh.glb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/models/kenney_nature_kit/tree_palm.glb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/models/kenney_nature_kit/tree_pineSmallB.glb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/textures/charcoal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/textures/grass_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/textures/lava.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/textures/lavatexture.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/textures/moon bump.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/textures/moon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/textures/sand3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/textures/snow.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/textures/stone.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Final project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Final project/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final project/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Final project/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final project/js/terrain/Skydome.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Final project/js/terrain/Skydome.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Final project/js/terrain/Water.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Final project/js/terrain/Water.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Oblig 4" beforeDir="false" afterPath="$PROJECT_DIR$/../Oblig 4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Oblig 5/threejs-solarsystem-filledInNy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Oblig 5/threejs-solarsystem-filledInNy/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Oblig2 /Kode/dat155-camera-system-assignment/dat155-camera-system" beforeDir="false" afterPath="$PROJECT_DIR$/../Oblig2 /Kode/dat155-camera-system-assignment/dat155-camera-system" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1j8iXZvEYoynrmpTMIBv88f1xhm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/textures" />
+      <recent name="$PROJECT_DIR$/js/terrain" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/models/kenney_nature_kit" />
+      <recent name="$PROJECT_DIR$/js" />
+      <recent name="$PROJECT_DIR$/resources/images" />
+      <recent name="$PROJECT_DIR$/resources/textures" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html (2)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Final project/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/new Final Project/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/threejs-template-master2/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Skydome.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/terrain/Skydome.js" working-dir="$PROJECT_DIR$/js/terrain">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html (2)" />
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Node.js.Skydome.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a4c0877-2067-4ad3-80d7-e183eab4635f" name="Default Changelist" comment="" />
+      <created>1603192159848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603192159848</updated>
+      <workItem from="1603192161077" duration="12804000" />
+      <workItem from="1603219668647" duration="139000" />
+      <workItem from="1603271817311" duration="87000" />
+      <workItem from="1603389808718" duration="64000" />
+      <workItem from="1603708987560" duration="4170000" />
+      <workItem from="1603811736539" duration="290000" />
+      <workItem from="1604313374235" duration="3715000" />
+      <workItem from="1605007782864" duration="15998000" />
+      <workItem from="1605174857382" duration="16802000" />
+      <workItem from="1605208919745" duration="1311000" />
+      <workItem from="1605277067188" duration="473000" />
+      <workItem from="1605464932118" duration="12602000" />
+      <workItem from="1605552563892" duration="2991000" />
+      <workItem from="1605612260233" duration="381000" />
+      <workItem from="1605624511660" duration="897000" />
+      <workItem from="1605799995476" duration="68000" />
+      <workItem from="1605800119632" duration="14000" />
+      <workItem from="1605800134772" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="206" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605534065712">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="458" y="206" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877@0.23.1440.877" timestamp="1605534065712" />
+    <state width="987" height="438" key="DebuggerActiveHint" timestamp="1605025319662">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="987" height="438" key="DebuggerActiveHint/0.23.1440.877@0.23.1440.877" timestamp="1605025319662" />
+    <state width="1419" height="56" key="GridCell.Tab.0.bottom" timestamp="1605800148254">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1259" height="91" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1603271906238" />
+    <state width="1419" height="56" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1605800148254" />
+    <state width="1419" height="56" key="GridCell.Tab.0.center" timestamp="1605800148254">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1259" height="91" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1603271906237" />
+    <state width="1419" height="56" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1605800148254" />
+    <state width="1419" height="56" key="GridCell.Tab.0.left" timestamp="1605800148253">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1259" height="91" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1603271906237" />
+    <state width="1419" height="56" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1605800148253" />
+    <state width="1419" height="56" key="GridCell.Tab.0.right" timestamp="1605800148254">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1259" height="91" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1603271906238" />
+    <state width="1419" height="56" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1605800148254" />
+    <state width="1419" height="56" key="GridCell.Tab.1.bottom" timestamp="1605800148255">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1259" height="91" key="GridCell.Tab.1.bottom/0.23.1280.777@0.23.1280.777" timestamp="1603271906240" />
+    <state width="1419" height="56" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1605800148255" />
+    <state width="1419" height="56" key="GridCell.Tab.1.center" timestamp="1605800148255">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1259" height="91" key="GridCell.Tab.1.center/0.23.1280.777@0.23.1280.777" timestamp="1603271906239" />
+    <state width="1419" height="56" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1605800148255" />
+    <state width="1419" height="56" key="GridCell.Tab.1.left" timestamp="1605800148254">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1259" height="91" key="GridCell.Tab.1.left/0.23.1280.777@0.23.1280.777" timestamp="1603271906239" />
+    <state width="1419" height="56" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1605800148254" />
+    <state width="1419" height="56" key="GridCell.Tab.1.right" timestamp="1605800148255">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1259" height="91" key="GridCell.Tab.1.right/0.23.1280.777@0.23.1280.777" timestamp="1603271906240" />
+    <state width="1419" height="56" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1605800148255" />
+    <state width="1259" height="240" key="GridCell.Tab.2.bottom" timestamp="1603209740009">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="240" key="GridCell.Tab.2.bottom/0.23.1280.777@0.23.1280.777" timestamp="1603209740009" />
+    <state width="1259" height="240" key="GridCell.Tab.2.center" timestamp="1603209740008">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="240" key="GridCell.Tab.2.center/0.23.1280.777@0.23.1280.777" timestamp="1603209740008" />
+    <state width="1259" height="240" key="GridCell.Tab.2.left" timestamp="1603209740008">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="240" key="GridCell.Tab.2.left/0.23.1280.777@0.23.1280.777" timestamp="1603209740008" />
+    <state width="1259" height="240" key="GridCell.Tab.2.right" timestamp="1603209740008">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="240" key="GridCell.Tab.2.right/0.23.1280.777@0.23.1280.777" timestamp="1603209740008" />
+    <state x="518" y="373" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605556043583">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="518" y="373" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1605556043583" />
+    <state x="418" y="84" width="604" height="735" key="find.popup" timestamp="1605016102979">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="418" y="84" width="604" height="735" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1605016102979" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/new_Final_Project$index_html__2_.dat" NAME="index.html (2) Coverage Results" MODIFIED="1605465764813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
